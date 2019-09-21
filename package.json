@@ -1,0 +1,49 @@
+{
+  "name": "portistest",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@portis/web3": "^2.0.0-beta.31",
+    "axios": "^0.19.0",
+    "big-integer": "^1.6.44",
+    "bootstrap": "^4.3.1",
+    "cors": "^2.8.5",
+    "crypto-js": "^3.1.9-1",
+    "express": "^4.17.1",
+    "list-react-files": "^0.2.0",
+    "multer": "^1.4.1",
+    "nodemon": "^1.19.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-pdf": "^4.1.0",
+    "react-router": "^5.0.1",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.0.1",
+    "react-toastify": "^5.3.1",
+    "reactstrap": "^8.0.0",
+    "semantic-ui-react": "^0.88.1",
+    "web3": "^1.0.0-beta.55",
+    "web3-utils": "^1.0.0-beta.55"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
